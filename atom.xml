@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-13T15:36:21.600Z</updated>
+  <updated>2020-04-15T09:47:50.313Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>第一篇博客</title>
     <link href="http://yoursite.com/2020/04/13/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2020/04/13/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
-    <published>2020-04-13T15:33:34.292Z</published>
-    <updated>2020-04-13T15:36:21.600Z</updated>
+    <published>2020-04-13T09:40:21.000Z</published>
+    <updated>2020-04-15T09:47:50.313Z</updated>
     
     <summary type="html">
     
@@ -29,13 +29,16 @@
       
         
         
-          &lt;p&gt;@&lt;a
+          &lt;ul&gt;
+&lt;li&gt;仅记录下第一篇博客文章，其实一直以来都想写搭建自己博客，可是迟迟未能动手，各种原因吧，各种忙碌，但是其实很多时候都是借口，因为时间挤挤总是有的，主要是自己眼高手低加上懒，趁着这次机会就搭建了自己的博客平台，写了第一个博客，希望以后自己能好好利用这个平台来记录自己
         
       
     
     </summary>
     
     
+    
+      <category term="First" scheme="http://yoursite.com/tags/First/"/>
     
   </entry>
   
